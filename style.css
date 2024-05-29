@@ -226,35 +226,35 @@ body {
   padding: 32px 40px;
   gap: 24px;
 }
-.about_jassir{
+.about_jassir {
   display: flex;
   gap: 16px;
   align-items: center;
 }
-.about_jassir_text{
+.about_jassir_text {
   display: flex;
   flex-direction: column;
   gap: 8px;
 }
-.jassir_name{
+.jassir_name {
   font-family: Roboto;
-font-size: 24px;
-font-weight: 700;
-line-height: 32px;
-letter-spacing: -0.02em;
-text-align: left;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32px;
+  letter-spacing: -0.02em;
+  text-align: left;
 }
-.jassir_work{
+.jassir_work {
   font-family: Roboto;
-font-size: 16px;
-font-style: italic;
-font-weight: 100;
-line-height: 24px;
-letter-spacing: -0.02em;
-text-align: left;
-color: #66645E;
+  font-size: 16px;
+  font-style: italic;
+  font-weight: 100;
+  line-height: 24px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  color: #66645e;
 }
-.intro_jassir{
+.intro_jassir {
   font-family: Roboto;
   font-size: 16px;
   font-weight: 500;
@@ -262,43 +262,42 @@ color: #66645E;
   letter-spacing: -0.02em;
   text-align: left;
 }
-.commit_jassir{
+.commit_jassir {
   display: flex;
   justify-content: space-between;
   width: 60%;
   font-family: Roboto;
-font-size: 16px;
-font-weight: 500;
-line-height: 24px;
-letter-spacing: -0.02em;
-text-align: left;
-color: #66645e;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  color: #66645e;
 }
-.dai_jassir{
+.dai_jassir {
   display: flex;
   justify-content: space-between;
   width: 52%;
   font-family: Roboto;
-font-size: 24px;
-font-weight: 500;
-line-height: 32px;
-letter-spacing: -0.02em;
-text-align: left;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 32px;
+  letter-spacing: -0.02em;
+  text-align: left;
 }
-.jassir button{
+.jassir button {
   background-color: black;
   color: white;
   border: none;
   padding: 12px 24px;
   border-radius: 16px;
   font-family: Roboto;
-font-size: 24px;
-font-weight: 500;
-line-height: 32px;
-letter-spacing: -0.02em;
-text-align: center;
-width: 100%;
-
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 32px;
+  letter-spacing: -0.02em;
+  text-align: center;
+  width: 100%;
 }
 .element_firstline {
   display: flex;
@@ -626,6 +625,6 @@ width: 100%;
   color: black;
   font-size: 18px;
 }
-.yashil{
+.yashil {
   color: #71a894;
 }
